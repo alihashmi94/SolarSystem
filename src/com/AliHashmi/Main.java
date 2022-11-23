@@ -13,5 +13,10 @@ public class Main {
     solana.radius = "6400km";
     solana.temperature = "123143c";
 
+    Planet1 narwhal = new Planet1();
+    narwhal.color = "Green";
+    narwhal.size = "123123km";
+
+
     }
 }
