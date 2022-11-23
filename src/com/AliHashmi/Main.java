@@ -13,5 +13,9 @@ public class Main {
     solana.radius = "6400km";
     solana.temperature = "123143c";
 
+    Planet2 perry = new Planet2();
+    perry.color = "yellow";
+    perry.size = "123456km";
+    
     }
 }
